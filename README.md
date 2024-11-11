@@ -17,8 +17,8 @@ To that end, we settled on bone abnormalities for the following reasons:
 The MURA dataset contains 14,863 musculoskeletal studies of the arm, where each study contains one or more views and is manually labeled by radiologists as either normal or abnormal.
 The standard upper extremities include: Elbow, Finger, Forearm, Hand, Humerus, Shoulder, and Wrist.
 
-Original paper source: https://arxiv.org/pdf/1712.06957
-Dataset sourcing: https://stanfordmlgroup.github.io/competitions/mura/
+* Original paper source: https://arxiv.org/pdf/1712.06957
+* Dataset sourcing: https://stanfordmlgroup.github.io/competitions/mura/
 
 ### The Baseline Model
 Baseline model from the original paper (linked above) uses a 169-layer convolutional neural network to detect and localize abnormalities. The model takes as input one or more views for a study of an upper extremity. On each view, the model makes the binary prediction of abnormal if the probability of abnormality for the study is greater than 0.5.
