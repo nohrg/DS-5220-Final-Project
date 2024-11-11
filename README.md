@@ -28,14 +28,6 @@ Model was evaluated on the Cohen’s kappa statistic, which expresses the agreem
 ## Methodology
 We plan to explore this problem from 2 angles. First, determining whether a unified model trained on all of the data performs better or worse than separate models specialized for each body part. Second, whether the best performing of our models is comparable in accuracy to a pre-trained model using transfer learning.
 
-Data Preprocessing: 
-  Data Augmentation
-  Normalization
-  Image Resizing
-Model Architecture:
-  Baseline CNN
-  Specialised sub-models for each class of upper extremity
-  Transfer learning using pre-trained models
-Evaluation and tuning:
-  Grid search or random search to find the suitable hyperparameters 
-  Record differences in accuracy, F1 score, and speed to abnormality variations across bones
+* Data Preprocessing: Data Augmentation, Normalization, Image Resizing
+* Model Architecture: Baseline CNN, Specialised sub-models for each class of upper extremity, Transfer learning using pre-trained models
+* Evaluation and tuning: Grid search or random search to find the suitable hyperparameters, Record differences in accuracy, F1 score, and speed to abnormality variations across bones
