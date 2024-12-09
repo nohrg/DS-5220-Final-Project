@@ -1,4 +1,6 @@
-# DS-5220-Final-Project
+# Abnormality detection based on musculoskeletal radiographs
+**Team members: Ritika Kumar, Noah Rae-Grant, Xin Wang**
+**DS 5220 Fall 2024 Final Project**
 
 ## Problem Statement
 Bone abnormality detection affects patient care, diagnostic speed, and treatment outcomes. Early and accurate detection helps in diagnosing conditions before they worsen, allowing for timely intervention. Radiographs are often the first line of imaging used to identify musculoskeletal issues, such as fractures, infections, or tumors. Our project aims to detect the presence of abnormality in 7 upper extremity classes based on radiographs of patients.
