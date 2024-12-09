@@ -1,5 +1,5 @@
 # Abnormality detection based on musculoskeletal radiographs
-**Team members: Ritika Kumar, Noah Rae-Grant, Xin Wang**
+**Team members: Ritika Kumar, Noah Rae-Grant, Xin Wang**<br>
 **DS 5220 Fall 2024 Final Project**
 
 ## Problem Statement
