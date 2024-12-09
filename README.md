@@ -31,3 +31,7 @@ We plan to explore this problem from 2 angles. First, determining whether a unif
 * Data Preprocessing: Data Augmentation, Normalization, Image Resizing
 * Model Architecture: Baseline CNN, Specialised sub-models for each class of upper extremity, Transfer learning using pre-trained models
 * Evaluation and tuning: Grid search or random search to find the suitable hyperparameters, Record differences in accuracy, F1 score, and speed to abnormality variations across bones
+
+## File Organization
+* Final Notebooks: Jupyter notebooks used to run the final models and output the results in our report
+* Test Notebooks: scratch work and small-scale tests
